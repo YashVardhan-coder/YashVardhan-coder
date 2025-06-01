@@ -2,7 +2,7 @@
 
 - 👀 Interests: I’m passionate about coding and solving programming challenges.
 - 🌱 Current Learning: Currently enhancing my skills in C programming.
-- 💼 Skills: Proficient in Python, HTML, and CSS.
+- 💼 Skills: Proficient in Python, c++, HTML, and CSS.
 - 📬 Contact Me: Feel free to reach out via email:- namdeoyashvardhan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first computer “bug” was an actual moth that caused a hardware malfunction in 1947!
